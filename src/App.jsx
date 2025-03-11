@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Welcome To ProShop</h1>
+      <h1>Welcome To ProShop, Welcome Welcome</h1>
     </>
   )
 }
